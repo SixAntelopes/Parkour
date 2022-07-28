@@ -1,0 +1,1 @@
+ D:/Software/GLFW-tdm/lib/libglfw3.a D:/Software/irrKlang/lib/Win32-gcc/libirrKlang.a D:/Software/freetype-tdm/lib/libfreetype.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

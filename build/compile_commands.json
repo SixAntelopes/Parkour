@@ -1,0 +1,67 @@
+[
+{
+  "directory": "C:/Users/Leon/Documents/GameProjects/Parkour/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-gcc.exe  @CMakeFiles/Parkout.dir/includes_C.rsp -m32 -g -o CMakeFiles\\Parkout.dir\\glad.c.obj -c C:\\Users\\Leon\\Documents\\GameProjects\\Parkour\\glad.c",
+  "file": "C:/Users/Leon/Documents/GameProjects/Parkour/glad.c"
+},
+{
+  "directory": "C:/Users/Leon/Documents/GameProjects/Parkour/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/Parkout.dir/includes_CXX.rsp -m32 -g -std=gnu++11 -o CMakeFiles\\Parkout.dir\\main.cpp.obj -c C:\\Users\\Leon\\Documents\\GameProjects\\Parkour\\main.cpp",
+  "file": "C:/Users/Leon/Documents/GameProjects/Parkour/main.cpp"
+},
+{
+  "directory": "C:/Users/Leon/Documents/GameProjects/Parkour/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/Parkout.dir/includes_CXX.rsp -m32 -g -std=gnu++11 -o CMakeFiles\\Parkout.dir\\game.cpp.obj -c C:\\Users\\Leon\\Documents\\GameProjects\\Parkour\\game.cpp",
+  "file": "C:/Users/Leon/Documents/GameProjects/Parkour/game.cpp"
+},
+{
+  "directory": "C:/Users/Leon/Documents/GameProjects/Parkour/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/Parkout.dir/includes_CXX.rsp -m32 -g -std=gnu++11 -o CMakeFiles\\Parkout.dir\\shader.cpp.obj -c C:\\Users\\Leon\\Documents\\GameProjects\\Parkour\\shader.cpp",
+  "file": "C:/Users/Leon/Documents/GameProjects/Parkour/shader.cpp"
+},
+{
+  "directory": "C:/Users/Leon/Documents/GameProjects/Parkour/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/Parkout.dir/includes_CXX.rsp -m32 -g -std=gnu++11 -o CMakeFiles\\Parkout.dir\\texture.cpp.obj -c C:\\Users\\Leon\\Documents\\GameProjects\\Parkour\\texture.cpp",
+  "file": "C:/Users/Leon/Documents/GameProjects/Parkour/texture.cpp"
+},
+{
+  "directory": "C:/Users/Leon/Documents/GameProjects/Parkour/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/Parkout.dir/includes_CXX.rsp -m32 -g -std=gnu++11 -o CMakeFiles\\Parkout.dir\\resource_manager.cpp.obj -c C:\\Users\\Leon\\Documents\\GameProjects\\Parkour\\resource_manager.cpp",
+  "file": "C:/Users/Leon/Documents/GameProjects/Parkour/resource_manager.cpp"
+},
+{
+  "directory": "C:/Users/Leon/Documents/GameProjects/Parkour/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/Parkout.dir/includes_CXX.rsp -m32 -g -std=gnu++11 -o CMakeFiles\\Parkout.dir\\sprite_renderer.cpp.obj -c C:\\Users\\Leon\\Documents\\GameProjects\\Parkour\\sprite_renderer.cpp",
+  "file": "C:/Users/Leon/Documents/GameProjects/Parkour/sprite_renderer.cpp"
+},
+{
+  "directory": "C:/Users/Leon/Documents/GameProjects/Parkour/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/Parkout.dir/includes_CXX.rsp -m32 -g -std=gnu++11 -o CMakeFiles\\Parkout.dir\\game_object.cpp.obj -c C:\\Users\\Leon\\Documents\\GameProjects\\Parkour\\game_object.cpp",
+  "file": "C:/Users/Leon/Documents/GameProjects/Parkour/game_object.cpp"
+},
+{
+  "directory": "C:/Users/Leon/Documents/GameProjects/Parkour/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/Parkout.dir/includes_CXX.rsp -m32 -g -std=gnu++11 -o CMakeFiles\\Parkout.dir\\game_level.cpp.obj -c C:\\Users\\Leon\\Documents\\GameProjects\\Parkour\\game_level.cpp",
+  "file": "C:/Users/Leon/Documents/GameProjects/Parkour/game_level.cpp"
+},
+{
+  "directory": "C:/Users/Leon/Documents/GameProjects/Parkour/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/Parkout.dir/includes_CXX.rsp -m32 -g -std=gnu++11 -o CMakeFiles\\Parkout.dir\\particle_generator.cpp.obj -c C:\\Users\\Leon\\Documents\\GameProjects\\Parkour\\particle_generator.cpp",
+  "file": "C:/Users/Leon/Documents/GameProjects/Parkour/particle_generator.cpp"
+},
+{
+  "directory": "C:/Users/Leon/Documents/GameProjects/Parkour/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/Parkout.dir/includes_CXX.rsp -m32 -g -std=gnu++11 -o CMakeFiles\\Parkout.dir\\post_processor.cpp.obj -c C:\\Users\\Leon\\Documents\\GameProjects\\Parkour\\post_processor.cpp",
+  "file": "C:/Users/Leon/Documents/GameProjects/Parkour/post_processor.cpp"
+},
+{
+  "directory": "C:/Users/Leon/Documents/GameProjects/Parkour/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/Parkout.dir/includes_CXX.rsp -m32 -g -std=gnu++11 -o CMakeFiles\\Parkout.dir\\text_renderer.cpp.obj -c C:\\Users\\Leon\\Documents\\GameProjects\\Parkour\\text_renderer.cpp",
+  "file": "C:/Users/Leon/Documents/GameProjects/Parkour/text_renderer.cpp"
+},
+{
+  "directory": "C:/Users/Leon/Documents/GameProjects/Parkour/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/Parkout.dir/includes_CXX.rsp -m32 -g -std=gnu++11 -o CMakeFiles\\Parkout.dir\\pipe_server.cpp.obj -c C:\\Users\\Leon\\Documents\\GameProjects\\Parkour\\pipe_server.cpp",
+  "file": "C:/Users/Leon/Documents/GameProjects/Parkour/pipe_server.cpp"
+}
+]
